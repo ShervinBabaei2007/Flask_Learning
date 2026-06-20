@@ -5,16 +5,16 @@ from flaskblog.forms import LoginForm, RegistrationForm
 
 posts = [
     {
-        "author": "Corey Schafer",
+        "author": "Shervin Babaei",
         "title": "Blog Post 1",
         "content": "First post content",
-        "date_posted": "April 20, 2018",
+        "date_posted": "June 20, 2026",
     },
     {
         "author": "Jane Doe",
         "title": "Blog Post 2",
         "content": "Second post content",
-        "date_posted": "April 21, 2018",
+        "date_posted": "June 20, 2026",
     },
 ]
 
